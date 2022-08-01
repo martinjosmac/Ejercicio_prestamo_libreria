@@ -28,6 +28,8 @@ public class Prestamos implements Serializable {
     private Libro libro1;
     @ManyToOne
     private Cliente cliente;
+    
+    
 
     public Prestamos() {
     }

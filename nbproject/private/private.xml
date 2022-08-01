@@ -8,10 +8,13 @@
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Entidades/Cliente.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/ReservaLibreria.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Persistencia/PrestamoDao.java</file>
+            <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Entidades/Libro.java</file>
+            <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Servicios/ServicioLibro.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Menureserva.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Servicios/ServiciosClientes.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Servicios/ServiciosPrestamo.java</file>
             <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Persistencia/ClienteDao.java</file>
+            <file>file:/C:/Users/marti/OneDrive/Documentos/NetBeansProjects/ReservaLibreria/src/reservalibreria/Persistencia/LibroDAO.java</file>
         </group>
     </open-files>
 </project-private>
